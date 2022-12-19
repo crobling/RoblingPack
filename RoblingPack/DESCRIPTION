@@ -1,0 +1,14 @@
+Package: RoblingPack
+Title: RoblingPack
+Version: 0.0.0.9000
+Author: Charles Robling [aut, cre],
+Description: This package is used for RGB analysis for images in R
+License: `GPL (>=2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    ggplot2,
+    imager,
+    photobiologySun,
+    shiny
